@@ -1,0 +1,17 @@
+/Users/PaulSayad/Test/Temp/bin/Debug/UnityEngine.dll
+/Users/PaulSayad/Test/Temp/bin/Debug/UnityEditor.dll
+/Users/PaulSayad/Test/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/PaulSayad/Test/Temp/bin/Debug/UnityEngine.PlaymodeTestsRunner.dll
+/Users/PaulSayad/Test/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/PaulSayad/Test/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/PaulSayad/Test/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/PaulSayad/Test/Temp/bin/Debug/UnityEngine.VR.dll
+/Users/PaulSayad/Test/Temp/bin/Debug/Mono.Cecil.dll
+/Users/PaulSayad/Test/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/PaulSayad/Test/Temp/bin/Debug/Unity.DataContract.dll
+/Users/PaulSayad/Test/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/PaulSayad/Test/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/PaulSayad/Test/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/PaulSayad/Test/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/PaulSayad/Test/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/PaulSayad/Test/Temp/bin/Debug/Mono.Cecil.Mdb.dll

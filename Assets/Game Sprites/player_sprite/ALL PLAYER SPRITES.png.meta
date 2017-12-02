@@ -1,0 +1,528 @@
+fileFormatVersion: 2
+guid: 9e8e527a12c694ffd92f92dbc035417a
+timeCreated: 1487273194
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ALL PLAYER SPRITES_0
+    21300002: ALL PLAYER SPRITES_1
+    21300004: ALL PLAYER SPRITES_2
+    21300006: ALL PLAYER SPRITES_3
+    21300008: ALL PLAYER SPRITES_4
+    21300010: ALL PLAYER SPRITES_5
+    21300012: ALL PLAYER SPRITES_6
+    21300014: ALL PLAYER SPRITES_7
+    21300016: ALL PLAYER SPRITES_8
+    21300018: ALL PLAYER SPRITES_9
+    21300020: ALL PLAYER SPRITES_10
+    21300022: ALL PLAYER SPRITES_11
+    21300024: ALL PLAYER SPRITES_12
+    21300026: ALL PLAYER SPRITES_13
+    21300028: ALL PLAYER SPRITES_14
+    21300030: ALL PLAYER SPRITES_15
+    21300032: ALL PLAYER SPRITES_16
+    21300034: ALL PLAYER SPRITES_17
+    21300036: ALL PLAYER SPRITES_18
+    21300038: ALL PLAYER SPRITES_19
+    21300040: ALL PLAYER SPRITES_20
+    21300042: ALL PLAYER SPRITES_21
+    21300044: ALL PLAYER SPRITES_22
+    21300046: ALL PLAYER SPRITES_23
+    21300048: ALL PLAYER SPRITES_24
+    21300050: ALL PLAYER SPRITES_25
+    21300052: ALL PLAYER SPRITES_26
+    21300054: ALL PLAYER SPRITES_27
+    21300056: ALL PLAYER SPRITES_28
+    21300058: ALL PLAYER SPRITES_29
+    21300060: ALL PLAYER SPRITES_30
+    21300062: ALL PLAYER SPRITES_31
+    21300064: ALL PLAYER SPRITES_32
+    21300066: ALL PLAYER SPRITES_33
+    21300068: ALL PLAYER SPRITES_34
+    21300070: ALL PLAYER SPRITES_35
+    21300072: ALL PLAYER SPRITES_36
+    21300074: ALL PLAYER SPRITES_37
+    21300076: ALL PLAYER SPRITES_38
+    21300078: ALL PLAYER SPRITES_39
+    21300080: ALL PLAYER SPRITES_40
+    21300082: ALL PLAYER SPRITES_41
+    21300084: ALL PLAYER SPRITES_42
+    21300086: ALL PLAYER SPRITES_43
+    21300088: ALL PLAYER SPRITES_44
+    21300090: ALL PLAYER SPRITES_45
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ALL PLAYER SPRITES_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 640
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ALL PLAYER SPRITES_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 640
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ALL PLAYER SPRITES_2
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 640
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ALL PLAYER SPRITES_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 640
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ALL PLAYER SPRITES_8
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 514
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ALL PLAYER SPRITES_9
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 514
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ALL PLAYER SPRITES_10
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 514
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ALL PLAYER SPRITES_11
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 514
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ALL PLAYER SPRITES_16
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 389
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ALL PLAYER SPRITES_17
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 389
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ALL PLAYER SPRITES_18
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 389
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ALL PLAYER SPRITES_19
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 389
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ALL PLAYER SPRITES_20
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 321
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ALL PLAYER SPRITES_21
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 321
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ALL PLAYER SPRITES_22
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 321
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ALL PLAYER SPRITES_23
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 321
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ALL PLAYER SPRITES_32
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 126
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ALL PLAYER SPRITES_33
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 126
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ALL PLAYER SPRITES_34
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 128
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ALL PLAYER SPRITES_35
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 128
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ALL PLAYER SPRITES_36
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 127
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ALL PLAYER SPRITES_37
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 128
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ALL PLAYER SPRITES_38
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 65
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ALL PLAYER SPRITES_39
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 65
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ALL PLAYER SPRITES_40
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 65
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ALL PLAYER SPRITES_41
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 65
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ALL PLAYER SPRITES_42
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ALL PLAYER SPRITES_43
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ALL PLAYER SPRITES_44
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ALL PLAYER SPRITES_45
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
