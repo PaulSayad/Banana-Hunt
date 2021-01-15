@@ -13,5 +13,5 @@ A 2D platformer game created using the Unity Gaming Engine. The game can be play
 * 4 Hostile Mobs
 * Tricky Terrain
 
-Format: ![Alt Text](https://gyazo.com/f95c2240cc004ca7d7f2d08d24a6bed1)
+<img src='http://g.recordit.co/Qh3Hq0tzTd.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
