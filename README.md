@@ -11,6 +11,7 @@ A 2D platformer game created using the Unity Gaming Engine. The game can be play
 
 * 2 Missions
 * 4 Hostile Mobs
+* 2 Hit Health Bar
 * Tricky Terrain
 
 <img src='http://g.recordit.co/Qh3Hq0tzTd.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
