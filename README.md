@@ -18,5 +18,7 @@ A 2D platformer game created using the Unity Gaming Engine. The game can be play
 * 2 Hit Health Bar
 * Tricky Terrain (Be careful of unstable bridges!)
 
-<img src='http://g.recordit.co/FFtuLRudp5.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+## Clips of Gameplay
+
+<img src='http://g.recordit.co/nIfOmDSzJ4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough'/>
 
