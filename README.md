@@ -20,7 +20,6 @@ A 2D platformer game created using the Unity Gaming Engine. The game can be play
 
 ## Controls
 
-- W -> Forward
 - A -> Left
 - D -> Right
 - Space -> Jump
