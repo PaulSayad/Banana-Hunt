@@ -28,3 +28,6 @@ A 2D platformer game created using the Unity Gaming Engine. The game can be play
 
 <img src='http://g.recordit.co/8mQnWT8edj.gif' title='Video Walkthrough' width='' alt='Video Walkthrough'/>
 
+<img src='http://g.recordit.co/usXwpLHq6X.gif' title='Video Walkthrough' width='' alt='Video Walkthrough'/>
+
+GIFs created with [RecordIt](https://recordit.co/).
